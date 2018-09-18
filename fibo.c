@@ -17,6 +17,6 @@ int main()
         temp1=temp2;
         temp2=nt;
     }
-    printf("%d\n",nt);
+    printf("fibonacci series for n numbers %d\n",nt);
     return 0;
 }
